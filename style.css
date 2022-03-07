@@ -1,0 +1,59 @@
+ul {
+    margin-top: -1px;
+    background-color: #333333;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+li {
+    display: inline;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+  font-size: 15px;
+  padding-right: 50px;
+  margin-left: -25px;
+}
+
+.card{
+  background-image: linear-gradient(45deg, #83CEF6, #d1efff);
+}
+
+.slider {
+  margin-top: -16px;
+  background-attachment: fixed;
+}
+
+.slider-img {
+  width: 1300px;
+  padding-top: 15px;
+  padding-left: 15px;
+  padding-bottom: 15px;
+}
+
+.image {
+  float: left;
+  width: 200px;
+  height: 220px;
+  padding-left: 30px;
+}
+
+.p-text {
+  font-size: 14.5px;
+  text-align: justify;
+  margin-top: -1px;
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-bottom: 20px;
+  column-rule: 2px solid black;
+  column-width: 250px;
+}
+
+footer {
+  background-color: black;
+  color: white;
+  text-align: center;
+  padding-bottom: 1px;
+}
